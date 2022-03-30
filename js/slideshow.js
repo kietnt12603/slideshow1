@@ -51,5 +51,5 @@ function truoc() {
     document.getElementById('dem').innerHTML = (index+1) +"/"+ array_hinh.length;
 }
 
-setInterval("sau()",2000);
+setInterval("sau()",800);
 
